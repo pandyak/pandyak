@@ -69,29 +69,6 @@ I'm a **Full-Stack Developer** with hands-on experience in building **scalable w
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 🌟 Featured Projects
-
-### ♻️ E-Waste Management System
-> *A smart platform to manage, track, and recycle electronic waste responsibly.*
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Key Features:**
-- 🔐 User registration & login with role-based access (User / Admin / Collector)
-- 📦 Submit e-waste pickup requests with item details & location
-- 🗺️ Track pickup status in real-time
-- 📊 Admin dashboard — manage requests, users & recycling stats
-- 🐍 Python scripts for data analysis & recycling impact reports
-- 📧 Email notifications for pickup confirmation & updates
-- 📈 Analytics — total waste collected, categories & environmental impact
-
-**[🔗 View Repository](https://github.com/pandyak/e-waste-management)** &nbsp;|&nbsp; **[🌐 Live Demo](#)**
 
 ---
 
