@@ -1,5 +1,5 @@
 ## Hey I'm Kunj Pandya 👋
-![Visitors](https://komarev.com/ghpvc/?username=pandyak&label=Profile%20Views&color=a78bfa&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=pandyak&label=SCANS%20LOGGED&color=0d1117&style=for-the-badge)
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Hi%20There!%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Systems%20%7C%20Clean%20Architecture&descAlignY=58&descColor=a78bfa"/>
@@ -69,22 +69,22 @@ I'm a **Full-Stack Developer** with hands-on experience in building **scalable w
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pandyak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandyak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=pandyak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pandyak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pandyak&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=pandyak&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
+<!--
 ---
 
 ## 🏆 GitHub Trophies
@@ -94,6 +94,7 @@ I'm a **Full-Stack Developer** with hands-on experience in building **scalable w
 </div>
 
 ---
+-->
 
 ## 📈 Contribution Graph
 
@@ -116,8 +117,6 @@ I'm a **Full-Stack Developer** with hands-on experience in building **scalable w
 ---
 
 <div align="center">
-
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
