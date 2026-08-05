@@ -1,5 +1,5 @@
 ## Hey I'm Kunj Pandya 👋
-![Visitors](https://komarev.com/ghpvc/?username=pandyak&label=SCANS%20LOGGED&color=0d1117&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=pandyak&label=Profile%20Views&color=a78bfa&style=flat)
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Hi%20There!%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Systems%20%7C%20Clean%20Architecture&descAlignY=58&descColor=a78bfa"/>
@@ -101,6 +101,7 @@ I'm a **Full-Stack Developer** with hands-on experience in building **scalable w
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pandyak&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
 </div>
+
 
 ---
 
